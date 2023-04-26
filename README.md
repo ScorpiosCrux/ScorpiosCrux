@@ -1,7 +1,7 @@
 # 💫 About Me:
 I grew up loving computer technology and I've set myself to learn about the hardware, software and computer networks. Using my knowledge, I create user focused systems designed to be fast and reliable!
 
-I now use my personal GitLab!
+(I push my code to GitLab and the repository is mirrored here)
 
 
 # 💻 Tech Stack:

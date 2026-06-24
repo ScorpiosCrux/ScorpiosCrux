@@ -1,5 +1,5 @@
 # 💫 About Me:
-I grew up loving computer technology and I've set myself to learn about the hardware, software and computer networks. Using my knowledge, I create user focused systems designed to be fast and reliable!
+Full Time Software Developer - Focused on Mobile and Video Development at the moment.
 
 (I push my code to GitLab and the repository is mirrored here)
 
